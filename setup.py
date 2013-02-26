@@ -30,6 +30,7 @@ setup(name='policy.irisnet',
           'cirb.zopemonitoring',
           # -*- Extra requirements: -*-
           'plonetheme.irisnet',
+          'webcouturier.dropdownmenu',
       ],
       entry_points="""
       # -*- Entry points: -*-

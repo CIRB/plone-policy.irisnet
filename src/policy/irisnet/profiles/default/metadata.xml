@@ -4,5 +4,6 @@
   <dependencies>
       <dependency>profile-Products.LinguaPlone:LinguaPlone</dependency>
       <dependency>profile-plonetheme.irisnet:default</dependency>
+      <dependency>profile-webcouturier.dropdownmenu:default</dependency>
   </dependencies>
 </metadata>
