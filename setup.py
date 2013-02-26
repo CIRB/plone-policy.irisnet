@@ -31,6 +31,7 @@ setup(name='policy.irisnet',
           # -*- Extra requirements: -*-
           'plonetheme.irisnet',
           'webcouturier.dropdownmenu',
+          'collective.easyslider',
       ],
       entry_points="""
       # -*- Entry points: -*-

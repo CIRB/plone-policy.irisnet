@@ -9,5 +9,6 @@
   <include package="cirb.zopemonitoring" />
   <include package="plonetheme.irisnet" />
   <include package="webcouturier.dropdownmenu" />
+  <include package="collective.easyslider" />
 
 </configure>
