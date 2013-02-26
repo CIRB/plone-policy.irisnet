@@ -29,6 +29,7 @@ setup(name='policy.irisnet',
           'Products.LinguaPlone',
           'cirb.zopemonitoring',
           # -*- Extra requirements: -*-
+          'plonetheme.irisnet',
       ],
       entry_points="""
       # -*- Entry points: -*-
