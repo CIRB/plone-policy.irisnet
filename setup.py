@@ -32,6 +32,7 @@ setup(name='policy.irisnet',
           'plonetheme.irisnet',
           'webcouturier.dropdownmenu',
           'collective.easyslider',
+          'Products.PloneFormGen',
       ],
       entry_points="""
       # -*- Entry points: -*-
